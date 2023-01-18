@@ -1,0 +1,2 @@
+#<Flight:0x00007f72812af530 @id=1, @flight_number="G39182", @icao_company="G3", @icao_departure_airport="SBBR", @icao_arrival_airport="SBSL", @departure_time_utc=2023-01-18 16:59:06.991447282 -0300, @arrival_time_utc=2023-01-18 16:59:06.991448103 -0300>
+#<Flight:0x00007f72812af080 @id=2, @flight_number="LA3419", @icao_company="LA", @icao_departure_airport="SBBR", @icao_arrival_airport="SBFZ", @departure_time_utc=2023-01-18 16:59:06.991455357 -0300, @arrival_time_utc=2023-01-18 16:59:06.991455888 -0300>
